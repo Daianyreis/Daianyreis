@@ -15,7 +15,6 @@ Skills
 - Programming framework: PowerShell, Bash and TensorFlow.
 
 ##
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daiany-reis-77bb33244/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reisdaiany233@gmail.com?subject=reisdaiany233@gmail.com)
 
 <picture>
