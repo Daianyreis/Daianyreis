@@ -1,18 +1,17 @@
 ## I am a Software Engineering student.
 
-My focus is on cybersecurity, creating scripts and tools for attack and defense automation for Red Teams and Blue Teams.
+My focus is on automation, bots and artificial intelligence.
 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Currently studying Pandas, SQL Language and Machine Learning.
+- ⚡ Fun fact: Currently studying Pandas, SQL Language, TensorFlow and Machine Learning.
 
 Research interests
-- Automation projects in Python, Go and C#.
+- Automation projects in Python and C#.
 - Machine Learning.
 
 Skills
 - Natural language: Portuguese (native) and English (beginner);
 - Programming language: Python and C#;
-- Programming framework: PowerShell, Bash and TensorFlow.
 
 ##
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reisdaiany233@gmail.com?subject=reisdaiany233@gmail.com)
